@@ -1,7 +1,11 @@
+import Template from "../Templates/index.jsx";
+
 export default function Blog() {
   return (
     <>
-      <h1>Blog</h1>
+      <Template>
+        <h1>Blog</h1>
+      </Template>
     </>
   );
 }

@@ -1,7 +1,11 @@
+import Template from "../Templates/index.jsx";
+
 export default function Katalog() {
   return (
     <>
-      <h1>Katalog</h1>
+      <Template>
+        <h1>Katalog</h1>
+      </Template>
     </>
   );
 }
