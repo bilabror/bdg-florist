@@ -103,7 +103,7 @@ export default function Footer() {
         },
     ];
     return (
-        <section className="w-full left-0 right-0 bg-primary bottom-0 mt-auto" id="footer">
+        <section className="w-full pb-5 left-0 right-0 bg-primary bottom-0 mt-auto" id="footer">
             <div
                 className="container space-y-10 my-10 lg:my-12 flex w-5/6 justify-between items-center flex-col selection:text-white selection:bg-green-600 font-roboto lg:flex-row lg:w-full">
                 <FirstFooterItem />
