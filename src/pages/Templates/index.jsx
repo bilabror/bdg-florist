@@ -1,5 +1,5 @@
 import Header from "./header.jsx"
-import Footer from "./footer.jsx"
+import Footer from "@/Components/Layouts/Footer.jsx"
 import {twMerge} from "tailwind-merge"
 
 function Navbar({ children }) {
