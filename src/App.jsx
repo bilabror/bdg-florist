@@ -1,10 +1,14 @@
+import { useState } from "react";
+import "./App.css";
+import Routers from "./routers";
+
 function App() {
 
   return (
     <>
-      <h1 className="text-red-500 text-lg">Hello world</h1>
+      <Routers />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
