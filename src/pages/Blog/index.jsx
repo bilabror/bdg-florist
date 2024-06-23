@@ -99,7 +99,6 @@ export default function Blog() {
                   </div>
                 </div>
               </div>
-
               <Sidebar />
             </div>
           </div>
